@@ -1,0 +1,41 @@
+﻿@model Sitecore.Data.Items.Item
+@using Sitecore.Data.Fields
+@using Sitecore.Data.Items
+@using Sitecore.Resources.Media
+@using Sitecore.Data
+
+@if(Model != null)
+{
+    <div id="mycorossel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#mycorossel" data-slide-to="0" class="active"></li>
+            <li data-target="#mycorossel" data-slide-to="1"></li>
+            <li data-target="#mycorossel" data-slide-to="2"></li>
+            <li data-target="#mycorossel" data-slide-to="3"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            @{ 
+                        IEnumerable<Item> sliderImage = null;
+                        var sliderImageField = new MultilistField(
+                            @Model.Fields["Corossel image"]);
+                        //@Html.Sitecore().Field(TemplateCorossel.Corossel.Fields.CorosselImage.ToString()));
+                        if(sliderImageField != null)
+                        {
+                            sliderImage = sliderImageField.GetItems();
+                        }
+                        if(sliderImage != null)
+                        {
+                            int i = 1;
+                            foreach (var image in sliderImage)
+                            {
+                                var mediaimage = (MediaItem)image;
+                        <div class="item @(i == 1 ? "active" : "")">
+                            <img src="@MediaManager.GetMediaUrl(mediaimage)" style="width:1300px;"/>
+                        </div>
+                        i++;
+                    }
+            }
+            }
+        </div>
+    </div>
+}

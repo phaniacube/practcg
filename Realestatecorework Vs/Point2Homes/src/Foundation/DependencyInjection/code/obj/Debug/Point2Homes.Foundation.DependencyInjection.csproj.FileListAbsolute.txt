@@ -1,0 +1,219 @@
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Point2Homes.Foundation.DependencyInjection.dll.config
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Point2Homes.Foundation.DependencyInjection.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Point2Homes.Foundation.DependencyInjection.pdb
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe.config
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csc.rsp
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csi.exe
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csi.exe.config
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csi.rsp
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.AppContext.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Console.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.Compression.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Claims.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.ValueTuple.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe.config
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.rsp
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Sitecore.Kernel.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Razor.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Newtonsoft.Json.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.xml
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.xml
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.xml
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.xml
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Razor.xml
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.csproj.CopyComplete
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.dll
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.pdb
+C:\Users\ksanadi\Desktop\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.csprojAssemblyReference.cache
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Point2Homes.Foundation.DependencyInjection.dll.config
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Point2Homes.Foundation.DependencyInjection.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Point2Homes.Foundation.DependencyInjection.pdb
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe.config
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csc.rsp
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csi.exe
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csi.exe.config
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csi.rsp
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.AppContext.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Collections.Immutable.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Console.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.Compression.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.Pipes.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.AccessControl.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Claims.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.ValueTuple.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.XPath.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe.config
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.rsp
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe.config
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.Web.Infrastructure.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Sitecore.Kernel.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Deployment.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Razor.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Newtonsoft.Json.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.xml
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.xml
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.xml
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.xml
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Deployment.xml
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Razor.xml
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.csprojAssemblyReference.cache
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.csproj.CopyComplete
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.dll
+C:\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.pdb
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Point2Homes.Foundation.DependencyInjection.dll.config
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Point2Homes.Foundation.DependencyInjection.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Point2Homes.Foundation.DependencyInjection.pdb
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe.config
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csc.rsp
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csi.exe
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csi.exe.config
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\csi.rsp
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.AppContext.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Console.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.Compression.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.Pipes.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Claims.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.ValueTuple.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe.config
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.rsp
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Sitecore.Kernel.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Razor.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Newtonsoft.Json.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.xml
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.xml
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.xml
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.xml
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\System.Web.WebPages.Razor.xml
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.csprojAssemblyReference.cache
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.csproj.CopyComplete
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.dll
+C:\Users\phanch\Documents\Realestatecorework Vs\Point2Homes\src\Foundation\DependencyInjection\code\obj\Debug\Point2Homes.Foundation.DependencyInjection.pdb

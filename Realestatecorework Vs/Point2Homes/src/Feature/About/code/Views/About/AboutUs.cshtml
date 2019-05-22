@@ -1,0 +1,67 @@
+﻿@using Point2Homes.Feature.About
+@model Sitecore.Data.Items.Item
+
+
+@inherits System.Web.Mvc.WebViewPage<Point2Homes.Feature.About.Models.AboutModel>
+
+<div class="news">
+
+    <div class="container">
+        <div class="w3-head-all text-center mb-5">
+            <h3>@Html.Sitecore().Field(@Model.Title.ToString())</h3>
+            <h3>@Model.Title</h3>
+        </div>
+        <div class="news-agileinfo">
+            <div class="news-w3row">
+
+                @{
+
+                    var subMenu = ViewBag.subMenu;
+
+                    int count = 1;
+                    foreach (var list in subMenu)
+                    {
+                        if (count % 2 != 0)
+                        {
+                            <div class="wthree-news-grids row">
+                                <div class="col-lg-6 datew3-agileits">
+                                    @Html.Sitecore().Field(TemplatesAbout.AboutPropertyDetails.PropertyDetails.Fields.PropertyImage.ToString(), list)
+                                </div>
+                                <div class="col-lg-6 datew3-agileits-info ">
+                                    <h5>
+                                        <a href="#" data-toggle="modal" data-target="#exampleModalCenter" role="button">
+                                            @Html.Sitecore().Field(TemplatesAbout.AboutPropertyDetails.PropertyDetails.Fields.PropertyTitle.ToString(), list)
+                                        </a>
+                                    </h5>
+                                    <h6>@Html.Sitecore().Field(TemplatesAbout.AboutPropertyDetails.PropertyDetails.Fields.PropertyDate.ToString(), list)</h6>
+                                    <p>@Html.Sitecore().Field(TemplatesAbout.AboutPropertyDetails.PropertyDetails.Fields.PropertySummary.ToString(), list)</p>
+                                </div>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="wthree-news-grids news-grids-mdl row">
+                                <div class="col-lg-6 datew3-agileits-info datew3-agileits-info-fltlft">
+                                    <h5>
+                                        <a href="#" data-toggle="modal" data-target="#exampleModalCenter" role="button">
+                                            @Html.Sitecore().Field(TemplatesAbout.AboutPropertyDetails.PropertyDetails.Fields.PropertyTitle.ToString(), list)
+                                        </a>
+                                    </h5>
+                                    <h6>@Html.Sitecore().Field(TemplatesAbout.AboutPropertyDetails.PropertyDetails.Fields.PropertyDate.ToString(), list)</h6>
+                                    <p>@Html.Sitecore().Field(TemplatesAbout.AboutPropertyDetails.PropertyDetails.Fields.PropertySummary.ToString(), list)</p>
+                                </div>
+                                <div class="col-lg-6  datew3-agileits datew3-agileits-fltrt">
+                                    @*<img src="images/ab2.jpg" class="img-responsive img-fluid" alt="" />*@
+                                    @Html.Sitecore().Field(TemplatesAbout.AboutPropertyDetails.PropertyDetails.Fields.PropertyImage.ToString(), list)
+                                </div>
+                            </div>
+                        }
+                        count++;
+                    }
+                }
+
+            </div>
+        </div>
+    </div>
+
+</div>

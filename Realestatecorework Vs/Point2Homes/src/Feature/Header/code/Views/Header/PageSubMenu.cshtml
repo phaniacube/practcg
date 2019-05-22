@@ -1,0 +1,13 @@
+﻿@model Point2Homes.Feature.Header.Models.PageHeaderModel
+@using Point2Homes.Feature.Header
+
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    @foreach (var list in Model.PageSubMenu)
+    {
+
+        <a class="dropdown-item">
+            @Html.Sitecore().Field(Templates.PagesMenu.Fields.SubPageName.ToString(), list)
+        </a>
+
+    }
+</div>

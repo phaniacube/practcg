@@ -1,0 +1,106 @@
+﻿@using Sitecore.Mvc
+@inherits System.Web.Mvc.WebViewPage
+
+<!DOCTYPE html>
+
+<!--[if IE 9]><html lang="en" class="ie9 no-js"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="@Sitecore.Context.Language.CultureInfo.TwoLetterISOLanguageName">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="~/Scripts/jquery-3.0.0.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap.js"></script>
+    <link rel="stylesheet" href="~/Content/bootstrap.css" />
+    <script type="application/x-javascript">
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+
+    <link rel="stylesheet" href="~/Assets/css/bootstrap.css"> <!-- Bootstrap-Core-CSS -->
+    <link href="~/Assets/css/style.css" rel='stylesheet' type='text/css' />
+    <link href="~/Assets/css/owl.carousel.css" rel="stylesheet"><!-- Owl-carousel-CSS -->
+    <link href="~/Assets/css/fontawesome-all.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+</head>
+<body>
+    <header>
+        @Html.Sitecore().Placeholder("header")
+    </header>
+
+
+    @*@Html.Sitecore().Placeholder("about")*@ @*@Html.Sitecore().Placeholder("about")*@
+    @Html.Sitecore().Placeholder("content")
+
+
+
+    @Html.Sitecore().Placeholder("footer")
+    <!-- js -->
+    <script type="text/javascript" src="~/Assets/js/jquery-2.2.3.min.js"></script>
+    <script type="text/javascript" src="~/Assets/js/bootstrap.js"></script>  <!-- Necessary-JavaScript-File-For-Bootstrap -->
+    <!-- //js -->
+    <!-- requried-jsfiles-for owl -->  <!-- testimonials -->
+    <script src="~/Assets/js/owl.carousel.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#owl-demo2").owlCarousel({
+                items: 1,
+                lazyLoad: false,
+                autoPlay: true,
+                navigation: false,
+                navigationText: false,
+                pagination: true,
+            });
+        });
+    </script>
+    <!-- //requried-jsfiles-for owl -->  <!-- //testimonials -->
+    <!-- start-smooth-scrolling -->
+    <script src="~/Assets/js/move-top.js"></script>
+    <script src="~/Assets/js/easing.js"></script>
+    <script>
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+
+                $('html,body').animate({
+                    scrollTop: $(this.hash).offset().top
+                }, 1000);
+            });
+        });
+    </script>
+    <!-- //end-smooth-scrolling -->
+    <!-- smooth-scrolling-of-move-up -->
+    <script>
+        $(document).ready(function () {
+            /*
+            var defaults = {
+                containerID: 'toTop', // fading element id
+                containerHoverID: 'toTopHover', // fading element hover id
+                scrollSpeed: 1200,
+                easingType: 'linear'
+            };
+            */
+
+            $().UItoTop({
+                easingType: 'easeOutQuart'
+            });
+
+        });
+    </script>
+    <!-- //smooth-scrolling-of-move-up -->
+    <!-- smooth scrolling js -->
+    <script src="~/Assets/js/SmoothScroll.min.js"></script>
+    <!-- //smooth scrolling js -->
+</body>
+</html>

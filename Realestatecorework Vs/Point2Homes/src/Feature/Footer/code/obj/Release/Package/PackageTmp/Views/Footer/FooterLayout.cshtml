@@ -1,0 +1,45 @@
+﻿@using Point2Homes.Feature.Footer
+@using Sitecore.Data.Fields
+@model Point2Homes.Feature.Footer.Models.FooterModel
+
+<html>
+<div class="footer-main">
+    <div class="footer-social">
+
+        <h4>@Html.Sitecore().Field(TemplatesFooter.Footer.Fields.FollowText.ToString(), Model.FollowText)</h4>
+        <ul>
+            <li>
+                <a href="#">
+                    <span>
+                        @Html.Sitecore().Field(TemplatesFooter.Footer.Fields.FBImage.ToString(), Model)
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="@Model.TwitterUrl.Url">
+                    <span>@Html.Sitecore().Field(TemplatesFooter.Footer.Fields.TwitterImage.ToString(), Model)</span>
+                </a>
+            </li>
+            <li>
+                @*<p>@Html.Sitecore().Field(TemplatesFooter.Footer.Fields.instagramlinkurl.ToString(), Model.instagramurl)</p>*@
+                <a href="@Model.InstagramUrl.Url">
+                    <span>@Html.Sitecore().Field(TemplatesFooter.Footer.Fields.DribbleImage.ToString(), Model)</span>
+                </a>
+            </li>
+            <li>
+                <a href="@Model.GoogleplusUrl.Url">
+                    <span>@Html.Sitecore().Field(TemplatesFooter.Footer.Fields.GoogleplusImage.ToString(), Model)</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="cpy-right">
+        <p>
+            @Html.Sitecore().Field(TemplatesFooter.Footer.Fields.Rights.ToString(), Model.Rights)
+            <a href="http://w3layouts.com">@Html.Sitecore().Field(TemplatesFooter.Footer.Fields.DesignLink.ToString(), Model.DesignLink)</a>
+        </p>
+    </div>
+</div>
+
+
+</html>
