@@ -1,0 +1,11 @@
+﻿
+@using Sitecore.Mvc;
+@using Sitecore.Data.Items;
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Resources.Media;
+
+@Html.Sitecore().CurrentItem.Fields["BannerImageDesc"];
+@*@Html.Sitecore().CurrentItem.Fields["Logo"];*@
+@Html.Sitecore().Field("BannerImage")<br />
+
+@*<a href="@item.Fields["Footerlink"].ToString()" ; @item.Fields["BannerImageLink"].ToString() ; />*@

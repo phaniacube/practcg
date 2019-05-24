@@ -1,0 +1,172 @@
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\sitecoremvc.dll.config
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\sitecoremvc.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\sitecoremvc.pdb
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\csc.exe
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\csc.exe.config
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\csc.rsp
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\csi.exe
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\csi.exe.config
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\csi.rsp
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.AppContext.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Console.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.Compression.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Claims.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.ValueTuple.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\vbc.exe
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\vbc.exe.config
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\vbc.rsp
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Antlr3.Runtime.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Newtonsoft.Json.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Sitecore.Kernel.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Sitecore.Mvc.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Net.Http.Formatting.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Helpers.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Http.Cors.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Http.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Http.WebHost.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Mvc.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Optimization.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Razor.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\WebGrease.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Mvc.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Helpers.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Optimization.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.Razor.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Newtonsoft.Json.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Antlr3.Runtime.pdb
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.csproj.CoreCompileInputs.cache
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.csproj.CopyComplete
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.dll
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.pdb
+C:\Users\phanch\source\repos\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.csprojAssemblyReference.cache
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\sitecoremvc.dll.config
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\sitecoremvc.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\sitecoremvc.pdb
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\csc.exe
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\csc.exe.config
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\csc.rsp
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\csi.exe
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\csi.exe.config
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\csi.rsp
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.AppContext.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Console.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.Compression.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Claims.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.ValueTuple.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\vbc.exe
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\vbc.exe.config
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\vbc.rsp
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Antlr3.Runtime.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Newtonsoft.Json.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Sitecore.Kernel.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Sitecore.Mvc.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Net.Http.Formatting.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Helpers.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Http.Cors.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Http.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Http.WebHost.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Mvc.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Optimization.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Razor.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\WebGrease.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Mvc.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Helpers.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Optimization.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.Razor.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Newtonsoft.Json.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Antlr3.Runtime.pdb
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.csproj.CoreCompileInputs.cache
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.csproj.CopyComplete
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.dll
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.pdb
+C:\Users\phanch\Downloads\New folder 1\projc\sitecoremvc\sitecoremvc\obj\Release\sitecoremvc.csprojAssemblyReference.cache
