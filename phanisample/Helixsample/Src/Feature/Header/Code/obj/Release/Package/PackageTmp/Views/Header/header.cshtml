@@ -1,0 +1,9 @@
+﻿
+@using Sitecore.Mvc;
+@using Sitecore.Data.Items;
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Resources.Media;
+
+@Html.Sitecore().CurrentItem.Fields["Title"];
+@*@Html.Sitecore().CurrentItem.Fields["Logo"];*@
+@Html.Sitecore().Field("Logo")<br />
