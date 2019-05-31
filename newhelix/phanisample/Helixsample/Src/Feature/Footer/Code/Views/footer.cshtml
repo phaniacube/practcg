@@ -1,0 +1,48 @@
+﻿
+@using Sitecore.Mvc;
+@using Sitecore.Data.Items;
+@using Sitecore.Mvc.Presentation
+
+
+
+@{
+    var dataSourceId = RenderingContext.CurrentOrNull.Rendering.DataSource;
+    var dataSource = Sitecore.Context.Database.GetItem(dataSourceId);
+
+    @Html.Sitecore().Field("FooterlinkTitle")<br />
+
+
+    <div>
+
+        @if (dataSource.Children != null)
+        {
+            foreach (Item item in dataSource.Children)
+            {
+
+
+                Sitecore.Data.Fields.LinkField link = item.Fields["Footerlink"];
+
+                Sitecore.Data.Fields.LinkField title = item.Fields["FooterlinkTitle"];
+
+
+
+                @*<a href="@item.Fields["Footerlink"].ToString()" @item.Fields["FooterlinkTitle"].ToString()<a/>*@
+
+
+                <a href="@link.Url">@title.Value</a>
+
+                @Html.Sitecore().Field("Footerlink", new { text = @Html.Sitecore().Field("FooterlinkTitle") })<br />
+
+                @Html.Sitecore().BeginField("Footerlink", new { haschildren = true })
+                @Html.Sitecore().Field("FooterlinkTitle")
+                @Html.Sitecore().EndField()
+
+
+
+            }
+        }
+
+
+
+    </div>
+}

@@ -1,0 +1,25 @@
+﻿
+@using Sitecore.Mvc;
+@using Sitecore.Data.Items;
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Resources.Media;
+
+@using Glass.Mapper.Sc.Web.Mvc;
+@inherits GlassView<Helixsample.Feature.Heade.Models.Header>
+
+
+
+@*without glassmaper binding image*@
+
+@*@Html.Sitecore().Field("Logo")<br />*@
+
+@*binding image*@
+
+@RenderImage(Model, x => x.Logo, new { mw = 600 }, isEditable: true)
+
+
+@*binding text*@
+
+@*<h1>@Model.Title</h1>*@
+
+

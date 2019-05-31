@@ -1,0 +1,97 @@
+Which method is responsible to customize the ContentSearch API result?
+GetResults()
+
+How to access datasource from RenderingContext in the ViewRendering?
+Model.Item
+
+
+What is the name of the template all templates should inherit from?
+-Standard Template
+
+Which are the databases are used in Public facing site ?
+Web & Core
+
+Why do you need Insert Options? 
+Increase CMS usability by limiting lists to relevant options rather than presenting a list of every type of data.
+
+How you will access the Multilist field in code?
+Using code API to read the content item.
+
+Why you should use Solr over Lucene? 
+Solr is designed for scalability and fault tolerance
+
+
+Which namespace is responsible to use Linq over ContentSearch result?
+Sitecore.ContentSearch.Linq
+
+What is difference between RenderingContext.Current.Rendering.Item and RenderingContext.Current.ContextItem ?
+-RenderingContext.Current.Rendering.Item-Allows rendering to fall back to context item (page or parent rendering) if datasource is empty.
+RenderingContext.Current.ContextItem-Ignores rendering datasource. References the page item OR, if set, the datasource of an ancestor rendering
+
+Which namespace used to access RenderingContext in the View file?
+Sitecore.Mvc.Presentation
+
+$name token added while creating the template but the value is not getting displayed,what could be the reason?
+-Tokens get replaced only when an item is created.
+
+Which method do you use to retrieve an items url?
+LinkManager.GetItemUrl()
+
+What is the best practice while creating the Sitecore Item package?
+Create Anti-Package using Sitecore Rocks
+
+What is the purpose of FieldSource while creating the template?
+-Extra configuration in the field 
+
+In which format sitecore is storing field content in database?
+Raw values
+
+What is the benifits of storing media items in database over file system?
+Media can be published like any other resource.Changes to the media library do not need to be synchronized with the file system
+
+What Shared Field indicates in templates?
+Field value can be shared in all language and numbered versions of content item.
+
+In case of multilingual sites, where we required to generate links for pages specific to the language?
+To generate URL specific to language using Display Name, You need to add useDisplayName=”true” into linkmanager in the sitecore.config
+
+What is the name of sitecore default search result class?
+SearchResultItem
+
+Which are editables fields in Experience Editors?
+Singleline-Text,Rich_text,Datetime
+
+Which method will return the Childrens from Sitecore.Data.Items.Item ?
+GetChildren()
+
+What is the advantage of setting StorageType-Yes in an index field?
+Means that the value of the field will be stored in the index
+
+What is vertical scaling in Sitecore?
+Vertically scaled dedicating an instance to a specific role, such as Content Delivery or Processing
+
+How to search item when it is buckted
+Using ContentSearch API
+
+Which interface is used to nontechnical users?
+Experience Editor
+
+In which order sitecore config files get executed?
+Alphabaticaly
+
+How to disable inline editing?
+By setting DisableWedEdit property
+
+What information required to create an item?
+Name,Template & Parent Node
+
+what happens if Place holder settings is left empty in allow control?
+-User can select any datasource from content tree
+
+Where should you set insert options as a best practice?
+In the standard values of template
+
+What happens if a role denies an access right and another one allows it?
+Deny
+
+

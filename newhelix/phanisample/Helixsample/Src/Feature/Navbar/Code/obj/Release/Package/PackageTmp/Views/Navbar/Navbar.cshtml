@@ -1,0 +1,76 @@
+﻿
+@using Sitecore.Mvc;
+@using Sitecore.Data.Items;
+@using Sitecore.Mvc.Presentation
+
+@using Glass.Mapper.Sc.Web.Mvc;
+@inherits GlassView<Helixsample.Feature.Navbar.Models.Footer>
+
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-inverse">
+
+        <div class="container-fluid">
+
+            @{
+                /**/
+
+
+
+                //  var dataSourceId = RenderingContext.CurrentOrNull.Rendering.DataSource;
+                //  var dataSource = Sitecore.Context.Database.GetItem(dataSourceId);
+
+                var items = Model.Children.ToList();
+
+
+
+                if (items != null)
+                {
+                    foreach (Helixsample.Feature.Navbar.Models.MenuModel item in items)
+                    {
+
+
+                        var md = item.Title;
+
+                        var link1 = item.link;
+
+                        @*<a>
+                                @using (Html.Glass().BeginRenderLink(item, x => x.link.Url))
+                                {
+                                    @Html.Glass().Editable(item, x => x.Title);
+                                }
+                            </a>*@
+
+
+                        //  Sitecore.Data.Fields.LinkField link = item["link"];
+
+
+                        // <a href="@link.Url">@item.Title</a>
+                        <ul class="nav navbar-nav navbar-right">
+                            <a href="@item.link.Url">@item.Title</a>
+                        </ul>
+                    }
+                }
+
+            }
+
+
+
+
+
+
+        </div>
+    </nav>
+</body>
+
+
